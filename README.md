@@ -1,8 +1,7 @@
 # AlgorithmOrderReadMachine
 Create an algorithm to read order and output cook sequence.
 
-
-Algorithm project. Given the conditions of Create an algorithm to read fish & chips orders and output the sequence to put the ingredients. 
+Algorithm project. Given the conditions and create corresponding algorithm to read fish & chips orders and output the sequence of putting the ingredients. 
 
 Conditions:
 We got 4 Fish Fryers, 4 Chips Fryers.  
